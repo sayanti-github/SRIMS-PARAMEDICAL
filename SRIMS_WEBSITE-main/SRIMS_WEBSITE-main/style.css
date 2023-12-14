@@ -560,7 +560,7 @@ section,
 	float: left;
 	width: 100%;
 	padding:22px 0;
-	max-width: 27%; 
+	max-width: 33%;
 }
 .logo_wrap2 p{
 	display: block;
@@ -603,10 +603,10 @@ section,
 .nav_2 ul li a{
     display: block;
     color: #ffffff;
-    font-size: 11px;
+    font-size:  15px;
     text-transform: uppercase;
     font-weight: 700;
-    padding: 10px 7px;
+    padding: 10px 14px;
     position: relative;
     z-index: 2;
 	font-family: 'Poppins', sans-serif;
@@ -922,7 +922,7 @@ section,
 	text-transform: uppercase;
 	color: #fff;
 	margin-bottom: 13px;
-	font-size: 48px;
+	font-size: 37px;
 	font-family: 'Poppins', sans-serif;
 
 }
